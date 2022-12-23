@@ -4,7 +4,8 @@
 entries:
   - title: info
     entries:
-      - title: 
+      - title: about me
+        url  : https://yushril.github.io
       - title: <a href='mailto:yushril@e.email'>yushril@e.email</a>
 
   - title: all posts
