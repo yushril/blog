@@ -43,6 +43,10 @@ p { margin: 1rem 0; }
 
 li { margin: 0.4rem 0; }
 
+a { border-bottom-style: solid;
+    border-bottom-color: #ffd600;
+} 
+
 *:target { background: yellow; }
 
 .w {
