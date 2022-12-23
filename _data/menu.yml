@@ -11,14 +11,5 @@ entries:
     post_list:
       limit: 5
       show_more: true
+      show_more: true
 
-  - title: another list
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
