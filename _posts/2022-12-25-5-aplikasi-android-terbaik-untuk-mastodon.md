@@ -21,7 +21,7 @@ Baiklah, tanpa banyak basa-basi langsung saja ke topik utama pada postingan kali
 
 <h2 id='mastodon'><a href='#mastodon'>Mastodon For Android</a></h2>
 
-Bagi pengguna baru atau pengguna lama sekalipun mungkin tidak asing dengan aplikasi resmi atau official dari mastodon yang satu ini. User Interface-nya yang cukup ramah dan terasa enteng saat digunakan. Meski begitu aplikasi ini masih memiliki beberapa kekurangan, yakni tidak ada pilihan warna tema lain selain light, dark mode dan yang paling kentara adalah tidak adanya lini masa publik.
+Bagi pengguna baru atau pengguna lama sekalipun mungkin tidak asing dengan aplikasi resmi atau official dari mastodon yang satu ini. User Interface-nya yang cukup ramah dan terasa enteng saat digunakan. Mastodon Official ini memang paling cocok untuk pengguna yang benar-benar baru pertama kali mengenal Mastodon. Meski begitu aplikasi ini masih memiliki beberapa kekurangan, yakni tidak ada pilihan warna tema lain selain light, dark mode dan yang paling kentara adalah tidak adanya lini masa publik.
 
 Link Download Mastodon Official: <a href='https://f-droid.org/packages/org.joinmastodon.android'>F-Droid</a>
 
