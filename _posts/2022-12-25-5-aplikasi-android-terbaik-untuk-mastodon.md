@@ -33,7 +33,7 @@ Link Download Tusky: <a href='https://f-droid.org/packages/com.keylesspalace.tus
 
 <h2 id='fedilab'><a href='#fedilab'>Fedilab</a></h2>
 
-Ingin menjadwalkan postinganmu? Kamu bisa melakukannya di Fedilab. Selain itu Fedilab juga memiliki fitur translate untuk menerjemahkan tiap postingan di Mastodon, kamu juga bisa kustomisasi tema. Mungkin secara kenyamanan dalam penggunaan aplikasi ini tidak lebih smooth dari Tusky, tapi Fedilab ini tetap layak untuk kamu coba. Oh ya, di Play Store Fedilab ini berbayar ya, tapi jika kamu mau mengunduhnya secara gratis kamu bisa unduh di F-Droid.
+Ingin menjadwalkan postinganmu? Kamu bisa melakukannya di Fedilab. Selain itu Fedilab juga memiliki fitur translate untuk menerjemahkan tiap postingan di Mastodon, kamu juga bisa kustomisasi tema. Secara kenyamanan dalam penggunaan aplikasi ini mungkin tidak lebih smooth dari Tusky, tapi Fedilab ini tetap layak untuk kamu coba. Oh ya, di Play Store Fedilab ini berbayar ya, tapi jika kamu mau mengunduhnya secara gratis kamu bisa unduh di F-Droid.
 
 Link Download Fedilab: <a href='https://f-droid.org/id/packages/fr.gouv.etalab.mastodon'>F-Droid</a>
 
