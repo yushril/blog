@@ -45,7 +45,7 @@ Link Download Megalodon: <a href='https://github.com/sk22/megalodon/releases'>Gi
 
 <h2 id='moshidon'><a href='#moshidon'>Moshidon</a></h2>
 
-Moshidon ini kurang lebih sama seperti Megalodon, karena Moshidon sendiri menggunakan kode sumber terbuka milik Megalodon yang membedakan dari Moshidon dengan Megalodon adalah adanya pilihan tema bernama Nord yang menurut saya sangat cocok untuk aplikasi ini. Uniknya aplikasi ini dikembangkan oleh developer yang baru menginjak usia 16 tahun.
+Moshidon ini kurang lebih sama seperti Megalodon, karena Moshidon sendiri menggunakan kode sumber terbuka milik Megalodon yang membedakan dari Moshidon dengan Megalodon adalah adanya pilihan tema bernama Nord yang menurut saya sangat cocok untuk aplikasi ini dan uniknya lagi aplikasi ini dikembangkan oleh developer yang baru menginjak usia 16 tahun.
 
 Link Download Moshidon: <a href='https://github.com/LucasGGamerM/moshidon/releases'>Github</a>
 
