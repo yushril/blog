@@ -9,36 +9,36 @@ Mastodon saat ini memiliki pengguna aktif kurang lebih 2,7juta pengguna, banyak 
 
 ## Berikut 5 aplikasi android terbaik untuk mastodon versi saya.
 
-- [Mastodon for Android] (#mastodon)
-- [Tusky] (#tusky)
-- [Fedilab] (#fedilab)
-- [Megalodon] (#megalodon)
-- [Moshidon] (#moshidon)
+- <a href='#mastodon'>Mastodon for Android</a>
+- <a href='#tusky'>Tusky</a>
+- <a href='#fedilab'>Fedilab</a>
+- <a href='#megalodon'>Megalodon</a>
+- <a href='#moshidon'>Moshidon</a>
 
 ---
 
-## [Mastodon For Android] (#mastodon)
+<h2 id='mastodon'><a href='#mastodon'>Mastodon For Android</a></h2>
 
 Bagi pengguna baru atau pengguna lama sekalipun mungkin tidak asing dengan aplikasi resmi atau official dari mastodon yang satu ini. Secara UI-nya yang cukup ramah dan terasa enteng saat digunakan, namun  aplikasi ini memiliki beberapa kekurangan, yakni tidak ada pilihan mengganti warna tema lain selain light, dark mode dan yang paling kentara adalah tidak adanya lini masa publik.
-Link Download: [F-Droid] (https://f-droid.org/packages/org.joinmastodon.android/)
+Link Download: <a href='https://f-droid.org/packages/org.joinmastodon.android'>F-Droid</a>
 
-## [Tusky] (#tusky)
+<h2 id='tusky'><a href='#tusky'>Tusky</a></h2>
 
 Aplikasi Tusky ini cukup banyak diminati oleh pengguna Mastodon, dengan mengusung tampilan yang sederhana dan nyaman ketika menjelajahi tiap konten di Mastodon. Kekurangan dari Tusky bagi saya saat ini adalah belum tersedianya fitur translate ke bahasa indonesia.
-Link Download: [F-Droid] (https://f-droid.org/packages/com.keylesspalace.tusky/)
+Link Download: <a href='https://f-droid.org/packages/com.keylesspalace.tusky'>F-Droid</a>
 
-## [Fedilab] (#fedilab)
+<h2 id='fedilab'><a href='#fedilab'>Fedilab</a></h2>
 
 Fedilab ini memiliki cukup banyak fitur yang bagus, seperti dapat membuat postingan terjadwal, memiliki translate dan bisa mengkustomisasi tema sesuai keinginan. Secara kenyamanan dalam penggunaan mungkin aplikasi ini tidak lebih smooth dari Tusky tapi tetap layak untuk kamu coba. Oh ya, di Play Store Fedilab ini berbayar ya, tapi jika kamu mau mengunduhnya secara gratis kamu bisa unduh di F-Droid
-Link Download: [F-Droid] (https://f-droid.org/id/packages/fr.gouv.etalab.mastodon/)
+Link Download: <a href='https://f-droid.org/id/packages/fr.gouv.etalab.mastodon'>F-Droid</a>
 
-## [Megalodon] (#megalodon)
+<h2 id='megalodon'><a href='#megalodon'>Megalodon</a></h2>
 
 Megalodon adalah aplikasi fork dari kode sumber milik Mastodon official. aplikasi ini memiliki tampilan sama persis dengan Mastodon official, bedanya Megalodon ini memiliki linimasa publik dan memiliki warna tema yang bisa dipersonalisasikan.
-Link Download: [Github] (https://github.com/sk22/megalodon/releases)
+Link Download: <a href='https://github.com/sk22/megalodon/releases'>Github</a>
 
-## [Moshidon] (#moshidon)
+<h2 id='moshidon'><a href='#moshidon'>Moshidon</a></h2>
 
 Moshidon ini kurang lebih sama seperti Megalodon, karena Moshidon sendiri menggunakan kode sumber terbuka milik Megalodon yang membedakan dari Moshidon dengan Megalodon adalah pilihan tema bernama Nord yang menurut saya sangat cocok untuk aplikasi ini.
-Link Download: [Github] (https://github.com/LucasGGamerM/moshidon/releases)
+Link Download: <a href='https://github.com/LucasGGamerM/moshidon/releases'>Github</a>
 
